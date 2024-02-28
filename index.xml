@@ -1,20 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<bookstore>
-  <book>
-    <title lang="en">Harry</title>
-    <price currency="USD">29.99</price>
-    <author>J.K.</author>
-  </book>
-  
-  <book>
-    <title lang="en">Learning</title>
-    <price currency="USD">39.95</price>
-    <author>Erik</author>
-  </book>
-  
-  <book>
-    <title lang="en">The</title>
-    <price currency="USD">15.00</price>
-    <author>F.</author>
-  </book>
-</bookstore>
+<table>
+  <tr>
+    <td>1</td>
+    <td>2</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>5</td>
+    <td>6</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>8</td>
+    <td>9</td>
+  </tr>
+</table>
