@@ -1,18 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<table>
-<tr>
-  <td1>1</td1>
-  <td2>2</td2>
-  <td3>3</td3>
-</tr>
-<tr>
-  <td1>4</td1>
-  <td2>5</td2>
-  <td3>6</td3>
-</tr>
-<tr>
-  <td1>7</td1>
-  <td2>8</td2>
-  <td3>9</td3>
-</tr>
-</table>
+<bookstore>
+  <book>
+    <title lang="en">Harry Potter</title>
+    <price currency="USD">29.99</price>
+    <author>J.K. Rowling</author>
+  </book>
+  
+  <book>
+    <title lang="en">Learning XML</title>
+    <price currency="USD">39.95</price>
+    <author>Erik T. Ray</author>
+  </book>
+  
+  <book>
+    <title lang="en">The Great Gatsby</title>
+    <price currency="USD">15.00</price>
+    <author>F. Scott Fitzgerald</author>
+  </book>
+</bookstore>
