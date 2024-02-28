@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <bookstore>
   <book>
-    <title lang="en">Harry Potter</title>
+    <title lang="en">Harry</title>
     <price currency="USD">29.99</price>
-    <author>J.K. Rowling</author>
+    <author>J.K.</author>
   </book>
   
   <book>
-    <title lang="en">Learning XML</title>
+    <title lang="en">Learning</title>
     <price currency="USD">39.95</price>
-    <author>Erik T. Ray</author>
+    <author>Erik</author>
   </book>
   
   <book>
-    <title lang="en">The Great Gatsby</title>
+    <title lang="en">The</title>
     <price currency="USD">15.00</price>
-    <author>F. Scott Fitzgerald</author>
+    <author>F.</author>
   </book>
 </bookstore>
