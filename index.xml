@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <table>
-  <tr>
-    <td>1</td>
-    <td>2</td>
-    <td>3</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>5</td>
-    <td>6</td>
-  </tr>
-  <tr>
-    <td>7</td>
-    <td>8</td>
-    <td>9</td>
-  </tr>
+  <tr1>
+    <td1>1</td1>
+    <td2>2</td2>
+    <td3>3</td3>
+  </tr1>
+  <tr2>
+    <td1>4</td1>
+    <td2>5</td2>
+    <td3>6</td3>
+  </tr2>
+  <tr3>
+    <td1>7</td1>
+    <td2>8</td2>
+    <td3>9</td3>
+  </tr3>
 </table>
