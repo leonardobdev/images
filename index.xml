@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <table>
-<tr id="1">
+<tr>
   <td1>1</td1>
   <td2>2</td2>
   <td3>3</td3>
 </tr>
-<tr id="2">
+<tr>
   <td1>4</td1>
   <td2>5</td2>
   <td3>6</td3>
 </tr>
-<tr id="3">
+<tr>
   <td1>7</td1>
   <td2>8</td2>
   <td3>9</td3>
